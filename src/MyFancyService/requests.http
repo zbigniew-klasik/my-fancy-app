@@ -1,0 +1,3 @@
+@baseUrl = http://localhost:5014
+
+GET {{baseUrl}}/WeatherForecast
